@@ -75,7 +75,7 @@ cd Tensorflow_Digit_Classification_using_MNIST_dataset
 
 ### Run the Script:
 ```sh
-jupyter notebook minist_classification.ipynb
+jupyter notebook Digit_classification_using_MNIST_dataset.ipynb
 ```
 
 ## Results
