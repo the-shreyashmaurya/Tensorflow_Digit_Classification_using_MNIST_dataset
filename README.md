@@ -1,5 +1,5 @@
 # MNIST Dataset Classification with TensorFlow
-
+ 
 ## Overview
 This repository demonstrates how to train a neural network for digit classification using the MNIST dataset and TensorFlow. The MNIST dataset consists of 60,000 training images and 10,000 test images of handwritten digits (0-9), each represented as a 28x28 grayscale image. The model is built using TensorFlow and Keras, incorporating activation functions such as ReLU and Softmax for optimal performance.
 
